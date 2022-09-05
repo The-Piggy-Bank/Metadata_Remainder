@@ -1,0 +1,46 @@
+{
+  "image": "591.png",
+  "name": "The Piggy Bank Family (Gen-0 Pixel Pigs) #591",
+  "symbol": "TPBF",
+  "collection": {
+    "name": "The Piggy Bank Family (Gen-0 Pixel Pigs)",
+    "family": "The Piggy Bank Family (Gen-0 Pixel Pigs)"
+  },
+  "attributes": [
+    {
+      "trait_type": "1-Backgrounds",
+      "value": "15-Forest_Mountain"
+    },
+    {
+      "trait_type": "2-Pig Skins",
+      "value": "2-Blue_Alien"
+    },
+    {
+      "trait_type": "3-Token",
+      "value": "1-Slot_Token"
+    },
+    {
+      "trait_type": "4-Head",
+      "value": "4-BaseBall_Hat_Backwards"
+    },
+    {
+      "trait_type": "5-Eyes",
+      "value": "2-Aviators"
+    }
+  ],
+  "seller_fee_basis_points": 777,
+  "properties": {
+    "creators": [
+      {
+        "address": "EmJAyKqQzdFtvNNJjVzLpYg9y6FpDNbQMaMGxvGT4jnW",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "591.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
